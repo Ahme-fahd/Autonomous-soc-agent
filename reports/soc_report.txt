@@ -1,0 +1,21 @@
+A thrilling challenge!
+
+After analyzing the logs, I've identified a security threat:
+
+**Type of threat:** Brute-force attack (attempting to guess passwords)
+**Source IP:** 103.20.1.50
+
+The sequence of events suggests that an attacker is attempting to login as 'root' from this IP address multiple times, which is a common tactic used in brute-force attacks.
+
+**Recommended action:**
+
+1. **Block IP**: Immediately block the IP address 103.20.1.50 to prevent further attempts.
+2. **Monitor for similar activity**: Keep an eye on other login attempts and failed logins from this IP or others that may indicate a coordinated attack.
+3. **Review system logs**: Inspect system logs for any successful login attempts or unusual system access, which could indicate the attacker has gained access to your system.
+
+Additionally, it's essential to implement strong password policies and consider implementing additional security measures, such as:
+
+1. **Rate limiting**: Limit the number of login attempts from a single IP address within a specified time frame.
+2. **Account lockout policies**: Configure account lockout policies that lock out accounts after a certain number of failed login attempts.
+
+By taking these steps, you can effectively mitigate this security threat and prevent future attacks!

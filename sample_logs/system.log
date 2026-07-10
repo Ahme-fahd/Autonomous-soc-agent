@@ -1,0 +1,9 @@
+2026-06-08T17:15:01Z auth-service[1420]: Invalid user admin from 192.168.1.150 port 49221 ssh2
+2026-06-08T17:15:02Z auth-service[1420]: Invalid user admin from 192.168.1.150 port 49226 ssh2
+2026-06-08T17:15:04Z auth-service[1420]: Invalid user root from 192.168.1.150 port 49230 ssh2
+2026-06-08T17:15:05Z auth-service[1420]: Invalid user root from 192.168.1.150 port 49235 ssh2
+2026-06-08T17:15:07Z auth-service[1420]: Invalid user administrator from 192.168.1.150 port 49240 ssh2
+2026-06-08T17:15:08Z auth-service[1420]: Invalid user user1 from 192.168.1.150 port 49244 ssh2
+2026-06-08T17:15:10Z auth-service[1420]: Invalid user fahd from 192.168.1.150 port 49250 ssh2
+2026-06-08T17:15:11Z auth-service[1420]: Invalid user fahd from 192.168.1.150 port 49255 ssh2
+2026-06-08T17:15:13Z auth-service[1420]: Accepted password for fahd from 192.168.1.150 port 49260 ssh2
